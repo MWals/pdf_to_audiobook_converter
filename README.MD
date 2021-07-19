@@ -1,5 +1,5 @@
 # PDF to Audiobook converter
-A Python script that converts PDF files into audiobooks by reading them out loud
+A Python script that converts PDF files into mp3 files by reading them out loud
 using [Google Deepmind's Wavenet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) 
 , by far my personal favorite when it comes to
 speech synthesis from written text.
