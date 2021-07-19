@@ -5,7 +5,7 @@ import google.cloud.texttospeech as tts
 
 # TODO implement offset for table of contents, etc
 
-infile = "ojeichwachse.pdf"
+infile = "myPdfFile.pdf"
 inpath = "in/"
 outpath = "out/"
 joinedpath = "joined/"
