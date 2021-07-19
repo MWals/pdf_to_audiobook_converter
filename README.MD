@@ -82,3 +82,6 @@ Several breaks will be added for paragraphs, colons, dots, etc to make the audio
  * Provide seperate audio files for the chapters
  * Find and cut table of contents, bibliography, etc automatically or let the user provide offset values
  * Find and cut page numbers automatically or let the user provide offset values
+
+## Contributing
+If you improve the script I woul highly appreciate if you create a pull request with your improvements, learn how that works here [https://kbroman.org/github_tutorial/pages/fork.html](https://kbroman.org/github_tutorial/pages/fork.html).
