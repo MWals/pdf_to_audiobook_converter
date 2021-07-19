@@ -120,9 +120,7 @@ for index, chunk in enumerate(chunks):
     print("prodessing", processedlenght, "of", lenght)
     print(index, len(chunk), "\n", chunk.replace("\n", ""), "\n")
 
-    # ssml_to_mp3(voice_name, chunk, outpath, f'{infile.replace(".pdf", "")}_{index}')
-
-exit()
+    ssml_to_mp3(voice_name, chunk, outpath, f'{infile.replace(".pdf", "")}_{index}')
 
 filelist = os.listdir(outpath)
 filelist.sort(key=lambda x: os.path.getmtime(outpath + x))
