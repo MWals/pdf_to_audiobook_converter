@@ -66,6 +66,10 @@ On Windows run
 On Linux run  
 `python3 main.py`
 
+## SSML preprocessing
+Several breaks will be added for paragraphs, colons, dots, etc to make the audio easier to listen to. Also several Unicode
+[latin small ligature symbols](https://unicode-table.com/en/FB06/) will be replaced accordingly.
+
 ## References
  [https://deepmind.com/blog/article/wavenet-generative-model-raw-audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) 
  
