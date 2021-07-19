@@ -76,3 +76,9 @@ Several breaks will be added for paragraphs, colons, dots, etc to make the audio
  [https://cloud.google.com/text-to-speech](https://cloud.google.com/text-to-speech)
   
  [http://ffmpeg.org/](http://ffmpeg.org/) 
+ 
+ ## ToDo
+ * Find chapters automatically and cut chunks in respect to the chapters as far as possible, name audio chunks accordingly.
+ * Provide seperate audio files for the chapters
+ * Find and cut table of contents, bibliography, etc automatically or let the user provide offset values
+ * Find and cut page numbers automatically or let the user provide offset values
