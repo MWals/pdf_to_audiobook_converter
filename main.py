@@ -3,15 +3,17 @@ import os
 import pdfplumber
 import google.cloud.texttospeech as tts
 
-# Offset für Verzeichnisse
+# TODO implement offset for table of contents, etc
 
 infile = "ojeichwachse.pdf"
-serviceaccount = "google.json"
-language_code = "de-DE"
-voice_name = "de-DE-Wavenet-B"
 inpath = "in/"
 outpath = "out/"
 joinedpath = "joined/"
+
+serviceaccount = "google.json"
+language_code = "de-DE"
+voice_name = "de-DE-Wavenet-B"
+
 lenght = 0
 text = ""
 apilengthlimit = 5000
