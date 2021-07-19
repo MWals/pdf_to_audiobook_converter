@@ -84,4 +84,4 @@ Several breaks will be added for paragraphs, colons, dots, etc to make the audio
  * Find and cut page numbers automatically or let the user provide offset values
 
 ## Contributing
-If you improve the script I woul highly appreciate if you create a pull request with your improvements, learn how that works here [https://kbroman.org/github_tutorial/pages/fork.html](https://kbroman.org/github_tutorial/pages/fork.html).
+If you improve the script, I would highly appreciate if you create a pull request with your improvements. Learn how that works here [https://kbroman.org/github_tutorial/pages/fork.html](https://kbroman.org/github_tutorial/pages/fork.html).
